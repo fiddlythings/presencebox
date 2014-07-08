@@ -3,7 +3,7 @@
 # Presence Indicator LED Box POC
 # Reagen B. Ward
 # http://hackaday.io/project/1014-IM-Status-Indicator-Nameplates
-#
+
 # Almost all credit goes to the FreeDesktop DBus tutorial which I 
 # blatantly cribbed
 # http://dbus.freedesktop.org/doc/dbus-python/doc/tutorial.html
