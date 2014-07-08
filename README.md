@@ -1,6 +1,6 @@
 IM Presence indication system using RGB LEDs
-============================================
-[Hack-A-Day Link](http://hackaday.io/project/1014-IM-Status-Indicator-Nameplates)
+--------------------------------------------
+[Hack-A-Day Projects Link](http://hackaday.io/project/1014-IM-Status-Indicator-Nameplates) with pictures, details, etc.
 
 I share a bullpen-style office with 3 other people, and while I love the set up, I found people would walk down our hallway only to find one of us away from our desks. In a (noble and selfless) effort to save everyone up to 8 seconds per day, I decided to visually indicate our presence using our IM status (Green = Available, Yellow = Away, Red = Busy). We have a nice side window by our door and transparent name plates, so the lights are very visible.
 
